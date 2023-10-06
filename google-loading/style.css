@@ -6,11 +6,7 @@
 }
 
 .ball {
-    width: 22px;
-    height: 22px;
-    border-radius: 11px;
-    margin: 0 10px;
-    animation: 2s bounce ease infinite;
+    
 }
 
 .blue {
