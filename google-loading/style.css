@@ -19,7 +19,7 @@
 
 .red {
     background: #EA4436;
-    
+    animation-delay: .25s;
 }
 
 .yellow {
