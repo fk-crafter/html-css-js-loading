@@ -7,7 +7,7 @@ body {
 }
 
 .loader {
-    : 6em;
+    width: 6em;
     height: 6em;
     font-size: 10px;
     position: relative;
